@@ -2,7 +2,7 @@
 Source code for the tutorly website
 
 # Website Licensing
-This website is a template from [colorlib](colorlib.com) that is licensed under a Creative
+This website is a template from [colorlib](https://colorlib.com) that is [licensed](https://colorlib.com/wp/licence/) under a Creative
 Commons Attribution 3.0 License which means:
 
 - We are allowed to use templates for personal and business usage.
