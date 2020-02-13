@@ -16,4 +16,6 @@ It also means that we must comply with the following limitations:
 - We are not allowed to sell, resale, rent, and lease our template.
 - Colorlib will not provide any technical support for free HTML templates.
 
-Testing- this is soren changing the readme to see which github account is going to push this change. 
+# TODO
+- fix contact page so that it actually sends emails (github pages doesn't allow PHP 
+so we should use javascript and open the user's default mail server)
