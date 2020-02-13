@@ -7059,7 +7059,6 @@ h6 {
 }
 
 .my-img {
-  height: 200px;
-  width: 200px;
+  height: 300px;
   object-fit: cover;
 }
