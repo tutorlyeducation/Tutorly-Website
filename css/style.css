@@ -7058,4 +7058,8 @@ h6 {
   font-size: 12px;
 }
 
-/*# sourceMappingURL=style.css.map */
+.my-img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
