@@ -7062,3 +7062,17 @@ h6 {
   height: 300px;
   object-fit: cover;
 }
+
+.my-center-children {
+  text-align: inherit;
+}
+
+@media only screen and (max-width: 425px) {
+  .my-img {
+    max-width: 100%;
+    object-fit: contain;
+  }
+  .my-center-children {
+    text-align: center;
+  }
+}
