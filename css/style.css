@@ -1756,9 +1756,6 @@ h3 {
 
 /* line 168, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
 .productivity_area {
-  background-image: url(../img/banner/product.png);
-  background-size: cover;
-  background-position: center center;
   padding: 164px 0;
   background-repeat: no-repeat;
 }
@@ -7058,6 +7055,7 @@ h6 {
 
 .my-img {
   height: 300px;
+  padding: 15px;
   object-fit: cover;
 }
 
@@ -7073,4 +7071,17 @@ h6 {
   .my-center-children {
     text-align: center;
   }
+}
+
+.purple-btn, .purple-btn:hover {
+  background-color: #7448C9 !important;
+}
+
+.white-btn, .white-btn:hover {
+  background-color: white !important;
+  color: black !important;
+}
+
+#download-now {
+  background-color: #7448C9 !important;
 }
