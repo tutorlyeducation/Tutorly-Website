@@ -69,7 +69,7 @@ a:hover,
 /* line 34, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/theme-default.scss */
 a,
 button {
-  color: #1F1F1F;
+  color: #3D4849;
   outline: medium none;
 }
 
@@ -419,8 +419,8 @@ h3 {
 /* line 29, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_btn.scss */
 .boxed-btn3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #37EBED;
-  color: #fff;
+  background: rgb(214, 214, 214);
+  color: rgb(0, 0, 0);
   display: inline-block;
   padding: 14px 27px;
   font-family: Helvetica, sans-serif;
@@ -431,7 +431,7 @@ h3 {
   -moz-border-radius: 5px;
   border-radius: 5px;
   text-align: center;
-  color: #fff !important;
+  color: rgb(0, 0, 0) !important;
   text-transform: capitalize;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
@@ -1756,9 +1756,6 @@ h3 {
 
 /* line 168, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
 .productivity_area {
-  background-image: url(../img/banner/product.png);
-  background-size: cover;
-  background-position: center center;
   padding: 164px 0;
   background-repeat: no-repeat;
 }
@@ -7058,6 +7055,7 @@ h6 {
 
 .my-img {
   height: 300px;
+  padding: 15px;
   object-fit: cover;
 }
 
@@ -7073,4 +7071,17 @@ h6 {
   .my-center-children {
     text-align: center;
   }
+}
+
+.purple-btn, .purple-btn:hover {
+  background-color: #7448C9 !important;
+}
+
+.white-btn, .white-btn:hover {
+  background-color: white !important;
+  color: black !important;
+}
+
+#download-now {
+  background-color: #7448C9 !important;
 }
