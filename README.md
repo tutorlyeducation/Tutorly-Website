@@ -1,5 +1,5 @@
 # Tutorly-Website
-Source code for the tutorly website. Live now at [www.tutorly.app](htps://www.tutorly.app)
+Source code for the tutorly website. Live now at [tutorly](https://www.tutorly.app)
 
 # Website Licensing
 This website is a template from [colorlib](https://colorlib.com) that is [licensed](https://colorlib.com/wp/licence/) under a Creative
