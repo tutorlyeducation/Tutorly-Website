@@ -1021,12 +1021,12 @@ h3 {
 
 /* line 124, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #42B3FA;
+  background: #fff;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 500;
   border: 1px solid transparent;
-  color: #fff;
+  color: #000000;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
